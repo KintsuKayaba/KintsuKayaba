@@ -1,4 +1,4 @@
-# 👋 Ciao! Mi chiamo KintsuKayaba
+# 👋 Ciao! Mi chiamo Gabriele
 
 Benvenuto nel mio profilo GitHub! Sono uno sviluppatore appassionato di tecnologia.
 
