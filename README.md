@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Ciao! Mi chiamo KintsuKayaba
 
-<!--
-**KintsuKayaba/KintsuKayaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvenuto nel mio profilo GitHub! Sono uno sviluppatore appassionato di tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 I miei progetti
+
+### [UniGeSocialSport](https://github.com/KintsuKayaba/UniGeSocialSport)
+Un progetto che mira a connettere persone attraverso lo sport, rendendo più facile organizzare eventi sportivi e socializzare all'interno di una comunità.
+
+---
+
+## 📊 Statistiche e attività
+
+### ⏱️ Tempo speso su GitHub e VS Code
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KintsuKayaba&layout=compact&theme=radical)
+
+### 📈 Percentuale dei linguaggi utilizzati
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KintsuKayaba&layout=compact&theme=radical)
