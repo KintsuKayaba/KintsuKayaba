@@ -10,11 +10,3 @@ Benvenuto nel mio profilo GitHub! Sono uno sviluppatore appassionato di tecnolog
 Un progetto che mira a connettere persone attraverso lo sport, rendendo più facile organizzare eventi sportivi e socializzare all'interno di una comunità.
 
 ---
-
-## 📊 Statistiche e attività
-
-### ⏱️ Tempo speso su GitHub e VS Code
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KintsuKayaba&layout=compact&theme=radical)
-
-### 📈 Percentuale dei linguaggi utilizzati
-![Linguaggi Più Utilizzati](github-readme-stats-hvfv2e8ff-kayabas-projects-9eeaa1a4.vercel.app/api/top-langs/?username=KintsuKayaba&layout=compact&theme=radical)
