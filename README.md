@@ -17,4 +17,4 @@ Un progetto che mira a connettere persone attraverso lo sport, rendendo più fac
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KintsuKayaba&layout=compact&theme=radical)
 
 ### 📈 Percentuale dei linguaggi utilizzati
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KintsuKayaba&layout=compact&theme=radical)
+![Linguaggi Più Utilizzati](https://github-readme-stats.vercel.app/api/top-langs/?username=KintsuKayaba&layout=compact&theme=radical&count_private=true&langs_count=10)
