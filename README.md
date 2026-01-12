@@ -3,9 +3,6 @@
 Benvenuto nel mio profilo GitHub!  
 Sono uno sviluppatore appassionato di tecnologia e informatica, mi piace creare progetti utili e imparare cose nuove ogni giorno. Utilizzo diversi linguaggi e tecnologie, ma ne ho tante altre da scoprire!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KintsuKayaba&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KintsuKayaba&layout=compact&theme=radical)
-
 ---
 
 ## 🚀 Progetti in evidenza
